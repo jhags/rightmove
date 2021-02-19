@@ -1,0 +1,19 @@
+{
+    "address": "Santos Road, London, SW18",
+    "postcode": "SW18 1NS",
+    "countryCode": "GB",
+    "tenureType": "FREEHOLD",
+    "yearsRemainingOnLease": null,
+    "transactionType": "BUY",
+    "added": "20210115",
+    "beds": 4,
+    "currency": "GBP",
+    "latitude": 51.458518,
+    "longitude": -0.200707,
+    "ownership": "Non-shared ownership",
+    "price": 1200000,
+    "priceQualifier": "None",
+    "propertyId": 88317910,
+    "propertySubType": "Semi-Detached",
+    "propertyType": "Houses"
+}
